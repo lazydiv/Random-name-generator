@@ -1,5 +1,5 @@
 # Random-name-generator
-generate real names to use in project
+generate real names to use in project.....
 
 Random-name-generator is a tool that helps you to make huge
 name array that is consisting of first name and last name 
